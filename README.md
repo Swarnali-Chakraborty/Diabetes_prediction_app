@@ -1,5 +1,4 @@
 # Diabetes_prediction_app
-# Diabetes_prediction_app
 # 🩺 Diabetes Prediction Web App
 
 This project predicts whether a person is diabetic based on medical diagnostic data using machine learning. It includes multiple models, feature importance analysis, and an interactive Streamlit web app.
@@ -36,7 +35,9 @@ Random Forest was used to calculate feature importance and visualize which medic
 - 🔎 Real-time prediction (Diabetic / Not Diabetic)
 - 📊 Feature importance bar chart
 - ✅ Clean UI and user-friendly design
-
+👩‍💻 Author
+Swarnali Chakraborty
+B.Tech Computer Science
 
 
 
