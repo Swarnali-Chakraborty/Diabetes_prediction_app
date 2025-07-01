@@ -35,9 +35,11 @@ Random Forest was used to calculate feature importance and visualize which medic
 - 🔎 Real-time prediction (Diabetic / Not Diabetic)
 - 📊 Feature importance bar chart
 - ✅ Clean UI and user-friendly design
+- 
 👩‍💻 Author
 Swarnali Chakraborty
-B.Tech Computer Science
+B.Tech ,Information Technology
+
 
 
 
